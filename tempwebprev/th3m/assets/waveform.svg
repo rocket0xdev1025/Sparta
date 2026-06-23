@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="waveform 1" clip-path="url(#clip0_0_25)">
+<path id="Vector" d="M16 7.33333V8.66667H15.4607L13.538 13.7553L12.0053 7.658L9.942 16.014L7.99933 6.624L6.05667 16.014L3.99333 7.658L2.46067 13.7553L0.539333 8.66667H0V7.33333H1.46067L2.20467 9.30467L4.006 2.142L5.94267 9.98667L8 0.0426674L10.0573 9.986L11.994 2.14133L13.7947 9.304L14.5387 7.33267H15.9993L16 7.33333Z" fill="var(--fill-0, white)"/>
+</g>
+<defs>
+<clipPath id="clip0_0_25">
+<rect width="16" height="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>
